@@ -156,12 +156,6 @@ Simple interface for:
 - Download Final Resume
 
 ---
-
-# 📸 Application Preview
-
-> Replace these placeholders with your screenshots.
-
----
 # 🖼️ Screenshots
 
 ## 🏠 Home Pages
