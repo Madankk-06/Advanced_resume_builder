@@ -162,14 +162,38 @@ Simple interface for:
 > Replace these placeholders with your screenshots.
 
 ---
+# 🖼️ Screenshots
 
-## 🏠 Home Page
+## 🏠 Home Pages
 
-<p align="center">
+![Home Section](assets/home1.jpeg)
 
-<img src="assets/home.png" width="95%"/>
+![Hero Section](assets/hone2.jpeg)
 
-</p>
+---
+
+## Skills Section
+
+![Skills Section](screenshots/skills.jpeg)
+
+---
+
+## Projects Carousel
+
+![Projects Section](screenshots/projects.jpeg)
+
+---
+
+## Experience Section
+
+![Experience Section](screenshots/experience.jpeg)
+
+---
+
+## Contact Section
+
+![Contact Section](screenshots/contact.jpeg)
+
 
 ---
 
