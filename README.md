@@ -171,79 +171,25 @@ Simple interface for:
 ![Hero Section](assets/hone2.jpeg)
 
 ---
-
-## Skills Section
-
-![Skills Section](screenshots/skills.jpeg)
-
----
-
-## Projects Carousel
-
-![Projects Section](screenshots/projects.jpeg)
-
----
-
-## Experience Section
-
-![Experience Section](screenshots/experience.jpeg)
-
----
-
-## Contact Section
-
-![Contact Section](screenshots/contact.jpeg)
-
-
----
-
-## 📄 Resume Upload
-
-<p align="center">
-
-<img src="assets/upload_resume.png" width="95%"/>
-
-</p>
-
----
-
 ## 💼 Job Description Upload
 
-<p align="center">
-
-<img src="assets/upload_jd.png" width="95%"/>
-
-</p>
+![Job description Section](assets/jd.jpeg)
 
 ---
 
 ## 📊 Resume Evaluation
-
-<p align="center">
-
-<img src="assets/evaluation.png" width="95%"/>
-
-</p>
+![Score Section](assets/score.jpeg)
 
 ---
 
 ## 💡 Gap Analysis
 
-<p align="center">
-
-<img src="assets/gap_analysis.png" width="95%"/>
-
-</p>
-
+![Gap Section](assets/suggestion.jpeg)
 ---
 
 ## ✨ Final Generated Resume
 
-<p align="center">
-
-<img src="assets/final_resume.png" width="95%"/>
-
-</p>
+![Final Section](assets/final.jpeg)
 
 ---
 
